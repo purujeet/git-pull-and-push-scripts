@@ -1,0 +1,7 @@
+{
+"filepath":"C:\\Users\\puru\\Desktop\\cgc",
+"link":"https://github.com/saurabhthesuperhero/CGCgenerator.git",
+"text":"Tryinhg another method",
+"email":"spurujeet@gmail.com",
+"username":"purujeet"
+}
